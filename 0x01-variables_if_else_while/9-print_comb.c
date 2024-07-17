@@ -1,9 +1,9 @@
 #include <stdio.h>
 
 /**
- *  * main - assign a random number to the variable
- *   * Return: zero
- *    */
+ * main - comb chi t5rbi9a
+ * Return: zero
+ */
 
 int main(void)
 {
